@@ -30,5 +30,5 @@ var i = -1;
 var interval = setInterval(increment, 1000);
 
 function increment() {
-    console.log(i = i % 99999999 + 1);
+    console.log(i = i % 99999999999 + 1);
 }
