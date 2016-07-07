@@ -1,0 +1,10 @@
+{
+  "name": "ProjectTwo",
+  "version": "0.0.0",
+  "description": "ProjectTwo",
+  "main": "app.js",
+  "author": {
+    "name": "Snow Montana",
+    "email": ""
+  }
+}
